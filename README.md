@@ -18,17 +18,25 @@ Copyright (C) 2014, Davide De Tommaso, Milad Malekzadeh, Leonel Rozo, Tohid Aliz
 
 # 1. What's PbDLib ?
 
-    PbDLib is an open source C++ library for using the Programming-by-Demonstration machine learning tools in your C++ code. Most of the tools provided by PbDLib are implementations of the algorithms described in the book "Robot Programming by Demonstration: A Probabilistic Approach" (Sylvain Calinon, 2009) and other related scientific publications.
+    PbDLib is an open source C++ library for using the Programming-by-Demonstration 
+    machine learning tools in your C++ code. Most of the tools provided by PbDLib are 
+    implementations of the algorithms described in the book 
+    "Robot Programming by Demonstration: A Probabilistic Approach" (Sylvain Calinon, 2009) 
+    and other related scientific publications.
 
     You can download the source code at http://github.com/ddetommaso/pbdlib
 
-    For more information about Programming-by-Demonstration please visit http://programming-by-demonstration.org
+    For more information about Programming-by-Demonstration please visit 
+    http://programming-by-demonstration.org
 
 
 # 2. Contributors:
 
-    PbDLib has been developed as part of the research activities inside the Learning and Interaction Group, Advanced Robotics Dept at the Istituto Italiano di Tecnologia, Genova.
-    In the following you can find the list of the contributors
+    PbDLib has been developed as part of the research activities inside the 
+    Learning and Interaction Group, Advanced Robotics Dept at the 
+    Istituto Italiano di Tecnologia, Genova.
+
+    In the following you can find the list of the contributors:
 
     Davide De Tommaso ----> dtmdvd[at]gmail[dot]com
     Milad Malekzadeh  ----> milad[dot]malekzadeh[at]gmail[dot]com
@@ -65,8 +73,9 @@ Copyright (C) 2014, Davide De Tommaso, Milad Malekzadeh, Leonel Rozo, Tohid Aliz
 # 4. Some useful citations
 
     Did you find PbDLib useful for your research?
-
-    Please consider to acknowledge the authors in any academic publications that have made use of this code or part of it. In the following you can find some code related BibTex references:
+    Please consider to acknowledge the authors in any academic publications that 
+    have made use of this code or part of it. 
+    In the following you can find the related BibTex references:
 
 
     @book{Calinon09book,
@@ -81,7 +90,8 @@ Copyright (C) 2014, Davide De Tommaso, Milad Malekzadeh, Leonel Rozo, Tohid Aliz
     @article{Calinon07SMC,
   	title="On Learning, Representing and Generalizing a Task in a Humanoid Robot",
   	author="S. Calinon and F. Guenter and A. Billard",
-  	journal="IEEE Transactions on Systems, Man and Cybernetics, Part B. Special issue on robot learning by observation, demonstration and imitation",
+  	journal="IEEE Transactions on Systems, Man and Cybernetics, Part B. 
+	Special issue on robot learning by observation, demonstration and imitation",
   	year="2007",
   	volume="37",
   	number="2",
