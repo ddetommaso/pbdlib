@@ -125,4 +125,34 @@ class PGMM_Model
 };
 
 } // end of namespace pbdlib
+
 #endif
+
+/*
+ |
+ |  >> REFERENCES <<
+ |
+ |    [Calinon, ICRA14]
+ |           @inproceedings{Calinon14ICRA,
+ |			author="Calinon, S. and Bruno, D. and Caldwell, D. G.",
+ |			title="A task-parameterized probabilistic model with minimal intervention control",
+ |			booktitle="Proc. {IEEE} Intl Conf. on Robotics and Automation ({ICRA})",
+ |			year="2014",
+ |			month="May-June",
+ |			address="Hong Kong, China",
+ |			pages="3339--3344"
+ |           }
+ |
+ |
+ |    [Calinon, 2012]
+ |           @inproceedings{Calinon12Hum,
+ |			author="Calinon, S. and Li, Z. and Alizadeh, T. and Tsagarakis, N. G. and Caldwell, D. G.",
+ |			title="Statistical dynamical systems for skills acquisition in humanoids",
+ |			booktitle="Proc. {IEEE} Intl Conf. on Humanoid Robots ({H}umanoids)",
+ |			year="2012",
+ |			address="Osaka, Japan",
+ |			pages="323--329"
+ | 	     }
+ |
+ |
+*/
