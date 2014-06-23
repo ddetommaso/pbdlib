@@ -24,7 +24,7 @@ Copyright (C) 2014, Davide De Tommaso, Milad Malekzadeh, Leonel Rozo, Tohid Aliz
     "Robot Programming by Demonstration: A Probabilistic Approach" (Sylvain Calinon, 2009) 
     and other related scientific publications.
 
-    You can download the source code at http://github.com/ddetommaso/pbdlib
+    You can download the source code from http://github.com/ddetommaso/pbdlib
 
     For more information about Programming-by-Demonstration please visit 
     http://programming-by-demonstration.org
